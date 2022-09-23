@@ -1,15 +1,19 @@
 * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
+    color: white;
 
+}
+body {
+    flex-wrap: wrap;
+    background-color: gray;
 }
 header {
     height: 155px;
     padding: 20px;
     text-align: center;
-    background: #13293d;
-    color: white;
-      
+    background: #13293d;  
+    border-style:double;  
 }
 
 header h1 {
@@ -19,7 +23,6 @@ header h1 {
 }
 
 header ul {
-    display: inline;
     float: right;
     margin-top: 2%;
     margin-right: 5%;
@@ -27,6 +30,7 @@ header ul {
 
 header li {
     display: inline;
+    text-align: left;
     margin-left: 30px;
     font-size: 200%;
 }
@@ -36,12 +40,9 @@ header img {
     margin-top: -1%;
     margin-left: 2%;
 }
-
-main {
-    margin-top: 4%;
-}
-
 h2 {
     font-weight: bold;
+    color: black;
+    text-decoration: underline;
 }
 
