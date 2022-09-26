@@ -113,7 +113,7 @@ aside li {
 .first span{
     position: absolute;
     justify-content: space-evenly;
-    top: 60rem;
+    top: 55rem;
     left: 20rem;
     color:cornflowerblue;
     border: 2px dashed navy;
@@ -122,24 +122,24 @@ aside li {
 .breakout span{
     position: absolute;
     justify-content: space-evenly;
-    top: 60rem;
-    left: 68rem;
+    top: 55rem;
+    left: 65rem;
     color:cornflowerblue;
     border: 2px dashed navy;
     font-size: 200%;
 }
 .college span{
     position: absolute;
-    top: 57rem;
-    left: 113rem;
+    top: 55rem;
+    left: 105rem;
     color:cornflowerblue;
     border: 2px dashed navy;
     font-size: 200%;
 }
 .refrac span{
     position: absolute;
-    top: 60rem;
-    left: 157rem;
+    top: 55rem;
+    left: 150rem;
     color:cornflowerblue;
     border: 2px dashed navy;
     font-size: 200%;
