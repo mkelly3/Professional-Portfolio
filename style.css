@@ -46,9 +46,9 @@ header li {
     font-size: 200%;
 }
 header img {
-    height: 150px;
+    height: 140px;
     float: left;
-    margin-top: -1%;
+    margin-top: -0.5%;
     margin-left: 2%;
 }
 h2 {
@@ -144,3 +144,4 @@ aside li {
     border: 2px dashed navy;
     font-size: 200%;
 }
+
