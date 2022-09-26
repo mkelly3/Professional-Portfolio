@@ -31,12 +31,13 @@
             <a class="refrac" href="https://mkelly3.github.io/HTML-CSS-code-refractor-/">
             <img src="assets/image4.jpg" alt="Horesion">
             <span>Horesion</span>
-             </a>
+             </a>`
 `
+
 
 ## Author Links
 
-[GitHub](https://github.com/mkelly3)
-[Linkedin](https://www.linkedin.com/in/morgan-kelly15/)
+- [GitHub](https://github.com/mkelly3)
+- [Linkedin](https://www.linkedin.com/in/morgan-kelly15/)
 
 
