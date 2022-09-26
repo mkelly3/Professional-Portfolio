@@ -13,7 +13,9 @@
 - GitHub
 
 ## Code Snippet
-`<main>
+
+```
+<main>
         <section id= "myWork" class ="button">
             <h2>My Work</h2>
             <a class="first" href="https://mkelly3.github.io/prework-study-guide/">
@@ -31,8 +33,9 @@
             <a class="refrac" href="https://mkelly3.github.io/HTML-CSS-code-refractor-/">
             <img src="assets/image4.jpg" alt="Horesion">
             <span>Horesion</span>
-             </a>`
-`
+             </a>
+    </main
+```
 
 
 ## Author Links
