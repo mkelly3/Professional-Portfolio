@@ -13,7 +13,8 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
-    background-color: var(--body-background);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,75,107,0.31416316526610644) 0%);
 }
 header {
     height: 155px;
@@ -55,7 +56,7 @@ h2 {
     text-decoration: underline;
 }
 
-main,article,aside{
+main, article{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -64,12 +65,20 @@ main,article,aside{
 
 .button {
     border: 2px solid white;
+    display: flex;
+}
+
+.button h2{
+    text-align: center;
+    margin: 40px;
 }
 
 .button img {
-    position: grid;
+    max-width: max-content;
+    position: relative;
+    justify-content: space-evenly;
     width: 500px;
-    height: 500px;
+    height: 600px;
     object-fit: cover;
     border: 5px solid navy;
     margin: 50px auto;  
@@ -86,14 +95,3 @@ aside li {
     margin: 75px;
     font-size: 125%;
 }
-.label{
-    position: absolute;
-    bottom: 0;
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0,5);
-    width: 100%;
-    opacity: 0;
-    color: black;
-    text-align: center;
-}
-
