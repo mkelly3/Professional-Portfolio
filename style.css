@@ -87,10 +87,13 @@ aside li {
     font-size: 125%;
 }
 .label{
-    display: flex;
-    margin: -20px;
-    display:inline;
-    text-decoration: underline;
-    color: white;
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0,5);
+    width: 100%;
+    opacity: 0;
+    color: black;
+    text-align: center;
 }
 
