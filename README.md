@@ -1,7 +1,7 @@
 # Professional-Portfolio
 
 ## Image
-![ProfilePic](./assets/profile%20pic.JPG)
+![cd ..ProfilePic](./assets/profile%20pic.JPG)
 
 ## Description
 HTML and CSS elements were used to create a portfolio webpage. The sections within the webpage include an About Me, My Work and Contact information. The images within the My Work section when clicked on take the user to the deployed webpage. Additionally, the webpage has a responsive layout and adapts to the users viewport. 
